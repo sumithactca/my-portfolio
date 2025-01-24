@@ -19,12 +19,11 @@ Hi there! I'm **Sumithra Balamurugan**, a passionate and driven tech enthusiast 
 **Description:**  
 Developed and published an interactive dashboard to analyze and visualize community datasets, showcasing trends and actionable insights. This project was recognized and published by [Stats Canada](https://www.statcan.gc.ca/en/data-science/network/data-decision).  
 - **Challenges Solved:**  
-  - Cleaned unstructured data and handled missing values efficiently.  
-  - Built a user-friendly dashboard appreciated by clients and instructors.  
+  - Cleaned unstructured data and efficiently handled missing values.  
+  - Performed feature engineering to enhance data quality and model performance..
+  - Developed a machine learning model to predict future rental prices.
+  - Built a dynamic, user-friendly dashboard using Looker, which was highly appreciated by clients and instructors.
 - **Tech Stack:** Python, Scikit-learn, Excel, Looker  
-
-**Community Data Programming**  
-![Community Data Programming Logo](community_Data_programming.png)  
 
 
 ### Data Visualizations from the Community Data Program
