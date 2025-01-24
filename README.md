@@ -24,7 +24,7 @@ Developed and published an interactive dashboard to analyze and visualize commun
 - **Tech Stack:** Python, Tableau, Power BI, Excel  
 
 **Preview:**  
-![Community Data Dashboard](https://lookerstudio.google.com/s/h31F5SloFbE)  
+![Community Data Dashboard](community_Data_programming.png)  
 
 **GitHub Repository:** [Community Data Program](#)  
 
