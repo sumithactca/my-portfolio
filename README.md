@@ -27,6 +27,21 @@ Developed and published an interactive dashboard to analyze and visualize commun
 ![Community Data Programming Logo](community_Data_programming.png)  
 *Community Data Programming* 
 
+### Data Visualizations from the Community Data Program
+
+These charts showcase insights derived from rental price analysis:
+
+1. **Distribution of Rental Prices:**  
+   The first histogram illustrates the distribution of rental prices across the dataset, highlighting the most common price ranges.
+
+2. **Size vs. Price Correlation:**  
+   The scatterplot visualizes the relationship between property size (in square feet) and price, grouped by the number of bedrooms.
+
+3. **Top 10 Most and Least Expensive Regions:**  
+   Bar charts highlighting the regions with the highest and lowest average rental prices, giving a clear understanding of regional trends.
+
+![Community Data Visualizations](image.png)
+
 **GitHub Repository:** [Community Data Program](#)  
 
 ---
