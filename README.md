@@ -26,8 +26,10 @@ Developed and published an interactive dashboard to analyze and visualize commun
 **Preview:**  
 ![Community Data Programming Logo](community_Data_programming.png)  
 *Community Data Programming* 
-![Community Data Visualizations](visula_community_data)
+
 ### Data Visualizations from the Community Data Program
+![Community Data Visualizations](visula_community_data.png)
+
 
 These charts showcase insights derived from rental price analysis:
 
