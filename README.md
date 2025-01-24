@@ -40,7 +40,7 @@ These charts showcase insights derived from rental price analysis:
 3. **Top 10 Most and Least Expensive Regions:**  
    Bar charts highlighting the regions with the highest and lowest average rental prices, giving a clear understanding of regional trends.
 
-![Community Data Visualizations](image.png)
+![Community Data Visualizations](visula_community_data)
 
 **GitHub Repository:** [Community Data Program](#)  
 
