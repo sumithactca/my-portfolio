@@ -17,15 +17,15 @@ Hi there! I'm **Sumithra Balamurugan**, a passionate and driven tech enthusiast 
 
 ### 1. **Community Data Program**  
 **Description:**  
-Developed and published an interactive dashboard to analyze and visualize community datasets, showcasing trends and actionable insights. This project was recognized and published on the **Stats Canada** website.  
+Developed and published an interactive dashboard to analyze and visualize community datasets, showcasing trends and actionable insights. This project was recognized and published by [Stats Canada](https://www.statcan.gc.ca/en/data-science/network/data-decision).  
 - **Challenges Solved:**  
   - Cleaned unstructured data and handled missing values efficiently.  
   - Built a user-friendly dashboard appreciated by clients and instructors.  
-- **Tech Stack:** Python, Tableau, Power BI, Excel  
+- **Tech Stack:** Python, Scikit-learn, Excel, Looker  
 
-**Preview:**  
+**Community Data Programming**  
 ![Community Data Programming Logo](community_Data_programming.png)  
-*Community Data Programming* 
+
 
 ### Data Visualizations from the Community Data Program
 ![Community Data Visualizations](visula_community_data.png)
