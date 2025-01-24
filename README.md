@@ -26,7 +26,7 @@ Developed and published an interactive dashboard to analyze and visualize commun
 **Preview:**  
 ![Community Data Programming Logo](community_Data_programming.png)  
 *Community Data Programming* 
-
+![Community Data Visualizations](visula_community_data)
 ### Data Visualizations from the Community Data Program
 
 These charts showcase insights derived from rental price analysis:
@@ -40,7 +40,7 @@ These charts showcase insights derived from rental price analysis:
 3. **Top 10 Most and Least Expensive Regions:**  
    Bar charts highlighting the regions with the highest and lowest average rental prices, giving a clear understanding of regional trends.
 
-![Community Data Visualizations](visula_community_data)
+
 
 **GitHub Repository:** [Community Data Program](#)  
 
