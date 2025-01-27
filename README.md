@@ -45,22 +45,28 @@ These charts showcase insights derived from rental price analysis:
 
 **GitHub Repository:** [Community Data Program](https://github.com/sumithactca/Community-data-project)  
 **Streamlit App:** [Predict Housing Prices](https://community-data-project-hwvxcaztzztswrfprgdcq6.streamlit.app/)
-**Dashboard:**[Link](https://lookerstudio.google.com/s/o69QeofUSno)
+**Dashboard:** [Link](https://lookerstudio.google.com/s/o69QeofUSno)
 
 ---
 
-### 2. **NPRI Dataset Analysis**  
-**Description:**  
-Analyzed and optimized a large-scale dataset (~500,000 records) from the NPRI (National Pollutant Release Inventory) to extract meaningful insights and enhance processing efficiency.  
-- **Key Highlights:**  
-  - Reduced dataset size by filtering relevant rows, cutting upload time by 70%.  
-  - Applied machine learning models to identify trends in pollution data.  
-- **Tech Stack:** Python, Pandas, Scikit-learn  
+### NPRI Project  
+A machine learning project designed to predict future substance release values into the air by companies across various regions, based on historical data.
 
-**Preview:**  
-![NPRI Data Analysis](https://via.placeholder.com/800x400.png?text=NPRI+Data+Analysis+Visualization)  
+**About the Dataset:**  
+The dataset was sourced from the National Pollutant Release Inventory (NPRI) and includes the following features:  
+- **Substance Name**: Types of substances released into the air.  
+- **Sector**: Industry sectors responsible for the release.  
+- **Company Names**: Organizations involved in the release.  
+- **Region Details**: Provinces and postal codes associated with the releases.  
 
-**GitHub Repository:** [NPRI Dataset Analysis](https://github.com/sumithactca/Community-data-project)  
+**Project Highlights:**  
+- Cleaned and preprocessed extensive datasets with over 500,000 records to ensure efficient model training.  
+- Performed feature engineering to build a machine learning model that predicts future substance release values by companies, regions, and substances.  
+- Visualized trends and insights for effective decision-making using advanced data analytics tools.
+
+**GitHub Repository:** [NPRI Dataset Project](https://github.com/sumithactca/NPRI_dataset)  
+**Streamlit App:** [Predict Substance Release](https://npridataset-2dhk3xhjvbqdsxvvgj6wrh.streamlit.app/)  
+**Dashboard:** [View on Tableau](https://public.tableau.com/views/NPRI2/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ---
 
