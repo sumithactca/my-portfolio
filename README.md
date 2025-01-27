@@ -80,23 +80,9 @@ The project involved detailed data visualizations to uncover trends and insights
 
 ---
 
-### 3. **WordPress Projects**  
-**Description:**  
-Designed and maintained multiple responsive websites for clients, focusing on aesthetics, functionality, and performance.  
-- **Achievements:**  
-  - Built over 20 custom WordPress sites.  
-  - Implemented SEO strategies, increasing site traffic by 30%.  
-- **Tech Stack:** WordPress, HTML, CSS  
-
-**Preview:**  
-![WordPress Project](https://via.placeholder.com/800x400.png?text=WordPress+Website+Preview)  
-
-**Portfolio:** [My WordPress Work](#)  
-
----
 
 ## 🌱 Current Interests:  
-I'm currently diving deeper into **data engineering**, exploring the MERN stack, and enhancing my knowledge in **blockchain development**.  
+I'm currently diving deeper into exploring the MERN stack, and enhancing my knowledge in **blockchain development**.  
 
 ---
 
