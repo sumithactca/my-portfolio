@@ -58,7 +58,7 @@ Analyzed and optimized a large-scale dataset (~500,000 records) from the NPRI (N
 **Preview:**  
 ![NPRI Data Analysis](https://via.placeholder.com/800x400.png?text=NPRI+Data+Analysis+Visualization)  
 
-**GitHub Repository:** [NPRI Dataset Analysis](#)  
+**GitHub Repository:** [NPRI Dataset Analysis](https://github.com/sumithactca/Community-data-project)  
 
 ---
 
