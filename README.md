@@ -16,8 +16,8 @@ Hi there! I'm **Sumithra Balamurugan**, a passionate and driven tech enthusiast 
 ## 🌟 Projects:  
 
 ### 1. **Community Data Program**  
-**Description:**  
-Developed and published an interactive dashboard to analyze and visualize community datasets, showcasing trends and actionable insights. This project was recognized and published by [Stats Canada](https://www.statcan.gc.ca/en/data-science/network/data-decision).  
+**Description:**
+This dataset consists of housing prices in Ontario, categorized by housing type and area. It provides a comprehensive view of market trends and price variations across different regions. Developed and published an interactive dashboard to analyze and visualize community datasets, showcasing trends and actionable insights. This project was recognized and published by [Stats Canada](https://www.statcan.gc.ca/en/data-science/network/data-decision).  
 - **Challenges Solved:**  
   - Cleaned unstructured data and efficiently handled missing values.  
   - Performed feature engineering to enhance data quality and model performance..
