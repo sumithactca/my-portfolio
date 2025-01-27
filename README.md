@@ -67,7 +67,7 @@ The dataset was sourced from the National Pollutant Release Inventory (NPRI) and
 ## Visualizations
 
 The project involved detailed data visualizations to uncover trends and insights from the NPRI dataset. Below are some of the key visual elements created during the analysis:
-![Visualizations](whole.png)
+![Visualizations](whole0.png)
 
 - **Quantity Trend Over Selected Years**: A line chart depicting the changes in the total quantity of substances released into the air over the years, highlighting trends and outliers.
 - **Price Trend Over Selected Years**: An analysis of the annual sum of prices associated with releases, helping identify cost trends related to substance emissions.
