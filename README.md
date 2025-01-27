@@ -45,7 +45,7 @@ These charts showcase insights derived from rental price analysis:
 
 **GitHub Repository:** [Community Data Program](https://github.com/sumithactca/Community-data-project)  
 **Streamlit App:** [Predict Housing Prices](https://community-data-project-hwvxcaztzztswrfprgdcq6.streamlit.app/)
-**Dashboard:** [Link](https://lookerstudio.google.com/s/o69QeofUSno)
+**Dashboard:** [View on Looker](https://lookerstudio.google.com/s/o69QeofUSno)
 
 ---
 
