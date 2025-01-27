@@ -64,6 +64,16 @@ The dataset was sourced from the National Pollutant Release Inventory (NPRI) and
 - Performed feature engineering to build a machine learning model that predicts future substance release values by companies, regions, and substances.  
 - Visualized trends and insights for effective decision-making using advanced data analytics tools.
 
+## Visualizations
+
+The project involved detailed data visualizations to uncover trends and insights from the NPRI dataset. Below are some of the key visual elements created during the analysis:
+![Visualizations](visula_community_data.png)
+
+- **Quantity Trend Over Selected Years**: A line chart depicting the changes in the total quantity of substances released into the air over the years, highlighting trends and outliers.
+- **Price Trend Over Selected Years**: An analysis of the annual sum of prices associated with releases, helping identify cost trends related to substance emissions.
+- **Top 5 Substances by Total Quantity**: A pie chart showcasing the most released substances, such as nitrogen oxides, particulate matter, and volatile organic compounds.
+- **Province Contributions Over the Years**: A stacked bar chart visualizing contributions from various provinces over time, providing regional insights.
+
 **GitHub Repository:** [NPRI Dataset Project](https://github.com/sumithactca/NPRI_dataset)  
 **Streamlit App:** [Predict Substance Release](https://npridataset-2dhk3xhjvbqdsxvvgj6wrh.streamlit.app/)  
 **Dashboard:** [View on Tableau](https://public.tableau.com/views/NPRI2/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
