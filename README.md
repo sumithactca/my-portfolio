@@ -43,7 +43,7 @@ These charts showcase insights derived from rental price analysis:
 
 
 
-**GitHub Repository:** [Community Data Program](#)  
+**GitHub Repository:** [Community Data Program](https://github.com/sumithactca/Community-data-project)  
 
 ---
 
